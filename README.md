@@ -1,5 +1,5 @@
 # Infinite Golf
-An animation of a golf ball going in a hole made with js and html canvas.
+An animation of a golf ball (almost) going in a hole made with js and html canvas.
 
 # What it does
 After a brief "loading screen" of 5 bounces the golf ball bounces around the window until in goes "in the hole".
