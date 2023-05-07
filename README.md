@@ -1,4 +1,4 @@
-# Golf
+# Infinte-Golf
 An animation of a golf ball going in a hole made with js and html canvas.
 
 # What it does
